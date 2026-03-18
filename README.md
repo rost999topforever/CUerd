@@ -14,7 +14,7 @@ you'll find a lot of macros.
 to use it:
 - scroll to the end of the file
 - write your code there
-- compile with a C99 compiler
+- compile with a C99 compiler , but if you have a 17.0 version of CUerd and better, you can use c90 compilater
 
 or:
 - delete the default hw() at the bottom
